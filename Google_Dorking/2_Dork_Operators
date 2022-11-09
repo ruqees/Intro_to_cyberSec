@@ -1,1 +1,11 @@
-
+Google dork operator and their uses;
+Cache: Its used to return the cached version of a website e.g cache:techtarget.com
+Site: Its used to return a list of all indexed URLs from a website or domain
+Filetype: Its used to return various kinds of files,depending on the file type or format or extension provided e.g filetype:pdf
+Inurl: Its used for a specific term in the URL e.g inurl:register.php
+allinurl:Its used to return results whose URL contains all the specified characters e.g allinurl:clientarea
+intext: It locates webpages that contain certain characters or string inside their text e.g intext:"Google Dork Query"
+inanchor: It searches for an exact anchor text used on any links e.g inanchor:"cyber attacks"
+|: It shows all sites that contain either or both specified words in the query
++: It concatenates words to detect pages using more than one specific key e.g. hacking + Google dork
+-: Its used to avoid displaying results containing certain words e.g hacking-dork
